@@ -8,5 +8,6 @@
   * This text is *italic*.
   * This text is both ***bold and italic***.
 
-See [Overview example article](../../overview.md)
+See [Overview example article](../../overview.md
 
+![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
