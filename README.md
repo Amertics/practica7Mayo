@@ -10,4 +10,6 @@
 
 See [Overview example article](../../overview.md
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![UPJR](https://github.com/Amertics/practica7Mayo/blob/main/logo.png)
+
+[DESCARGA PDF](https://github.com/Amertics/practica7Mayo/blob/main/Arboles.pdf)
